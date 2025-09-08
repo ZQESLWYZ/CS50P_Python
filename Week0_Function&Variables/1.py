@@ -1,7 +1,7 @@
 # Ask user for their name
 # test comments
 
-# TODO 1.ASK USER NAME
+# 1.ASK USER NAME
 name = input("What's your name?\n")
 
 # 字符串操作
@@ -18,7 +18,7 @@ print(name.split(" "))
 print(f"{first_name} and {last_name}")
 
 
-# TODO 2.PRINT USER NAME 
+# 2.PRINT USER NAME 
 print(f"Hello,{name}")
 print("Hello," + name)
 print("Hello,", name, name)
