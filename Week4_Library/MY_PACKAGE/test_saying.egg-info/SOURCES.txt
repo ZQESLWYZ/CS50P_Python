@@ -1,0 +1,7 @@
+setup.py
+MAIN/__init__.py
+MAIN/saying.py
+test_saying.egg-info/PKG-INFO
+test_saying.egg-info/SOURCES.txt
+test_saying.egg-info/dependency_links.txt
+test_saying.egg-info/top_level.txt
