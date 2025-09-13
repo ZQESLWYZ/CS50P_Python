@@ -1,4 +1,6 @@
 try:
     x = int(input("What's x?"))
 except ValueError:
-    pass 
+    print("no")
+finally:
+    print("yes")
